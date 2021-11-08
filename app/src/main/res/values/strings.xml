@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MediaPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">pause</string>
+    <string name="restart">RESET</string>
+    <string name="hello_world">Hello world</string>
 </resources>
